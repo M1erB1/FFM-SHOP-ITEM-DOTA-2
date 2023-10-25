@@ -99,8 +99,15 @@ footer {
 h2{
     margin-top: 10px;
     margin-bottom: 10px;
+    color: black;
 }
 h3{
     margin-top: 10px;
     margin-bottom: 10px;
+    color: black;
+}
+p{
+    color: black;
+}
+a.ex2:hover, a.ex2:active {font-size: 150%;
 }
