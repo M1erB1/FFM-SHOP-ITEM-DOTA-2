@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* เฮดเดอร์ */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* เนื้อหาหลัก */
+section {
+    padding: 20px;
+}
+
+#product-details {
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 20px;
+}
+
+#product-details img {
+    max-width: 100%;
+}
+
+#product-details h2 {
+    font-size: 24px;
+}
+
+#product-details p {
+    margin: 10px 0;
+}
+
+.shipping-info {
+    background-color: #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+/* ลิงค์ไปยังเพจ Facebook */
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
