@@ -50,7 +50,7 @@ section {
 }
 
 #product-details p {
-    margin: 10px 0;
+    margin: 15px 0;
 }
 
 .shipping-info {
@@ -64,3 +64,4 @@ footer {
     text-align: center;
     margin-top: 20px;
 }
+

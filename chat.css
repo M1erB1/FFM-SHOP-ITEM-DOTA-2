@@ -34,6 +34,7 @@ nav a {
 section {
     padding: 20px;
     text-align: center;
+
 }
 
 #chat {
@@ -45,14 +46,16 @@ section {
     background-color: #fff;
     border: 1px solid #ccc;
     padding: 20px;
+    height: 780px;
 }
 
 #chat-messages {
-    height: 300px;
+    height: 700px;
     overflow-y: auto;
     border: 1px solid #ccc;
     margin-bottom: 10px;
     padding: 10px;
+
 }
 
 #message-input {
